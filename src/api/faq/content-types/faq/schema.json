@@ -13,10 +13,10 @@
   "pluginOptions": {},
   "attributes": {
     "question": {
-      "type": "string"
+      "type": "text"
     },
     "answer": {
-      "type": "html"
+      "type": "richText"
     },
     "blocks": {
       "type": "dynamiczone",
