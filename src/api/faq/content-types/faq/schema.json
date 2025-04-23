@@ -16,7 +16,7 @@
       "type": "text"
     },
     "answer": {
-      "type": "richText"
+      "type": "rich-text"
     },
     "blocks": {
       "type": "dynamiczone",
